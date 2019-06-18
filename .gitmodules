@@ -1,3 +1,0 @@
-[submodule "mymodule"]
-	path = mymodule
-	url = git@github.com:zhwanwan/git_child.git
